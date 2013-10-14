@@ -1,3 +1,7 @@
 ahoj
 
+<<<<<<< HEAD
 moje dalsi zmena po tom co nekdo neco pridal a ja to nepullnul
+=======
+pridal nekdo jiny
+>>>>>>> 0c0108dbc2dc403d24fc69304937becfbc1fa6be
